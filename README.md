@@ -1,6 +1,6 @@
 ## Hi, I'm Maheedhar 👋
 
-Data Analyst with 3+ years of experience in data analysis,
+Data Analyst with  rich  experience in data analysis,
 visualisation, and business intelligence.
 
 I specialise in Power BI, SQL, and Python, and have delivered
